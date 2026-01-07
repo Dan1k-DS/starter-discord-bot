@@ -1,1 +1,19 @@
-
+{
+  "configs": [
+    {
+      "name": "Server 1",
+      "url": "vless://uuid@server1.com:443?encryption=none&security=tls&type=ws&host=server1.com&path=/ws#Server1"
+    },
+    {
+      "name": "Server 4",
+      "url": "ss://YWVzLTI1Ni1nY206cGFzc3dvcmQ=@server4.com:8388#Server4"
+    }
+  ],
+  "update": {
+    "version": "1.0.2",
+    "build_number": 2,
+    "download_url": "https://github.com/Dan1k-DS/starter-discord-bot/releases/download/v1.0.3/app-release.apk",
+    "release_notes": "Исправлены ошибки, добавлена поддержка новых протоколов",
+    "required": false
+  }
+}
