@@ -2,11 +2,11 @@
   "configs": [
     {
       "name": "Server 1",
-      "url": "vless://uuid@server1.com:443?encryption=none&security=tls&type=ws&host=server1.com&path=/ws#Server1"
+      "url": "vless://92c2450f-b969-4a35-b5f5-52e9e98f90a9@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#nlbbnua2"
     },
     {
       "name": "Server 4",
-      "url": "ss://YWVzLTI1Ni1nY206cGFzc3dvcmQ=@server4.com:8388#Server4"
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWd2lNa1UydGxRMVBIaTNVdll4NHFJ@178.208.78.170:23822/?outline=1"
     }
   ],
   "update": {
