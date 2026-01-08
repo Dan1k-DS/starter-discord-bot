@@ -2,7 +2,7 @@
   "configs": [
     {
       "name": "Серввер 1",
-      "url": "vless://92c2450f-b969-4a35-b5f5-52e9e98f90a9@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#nlbbnua2"
+      "url": "vless://389ac3be-ad36-4752-8adb-e874ffeb4c90@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#1tjuoklb"
     },
     {
       "name": "Сервер 2",
