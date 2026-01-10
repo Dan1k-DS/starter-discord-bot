@@ -2,11 +2,11 @@
   "configs": [
     {
       "name": "Серввер 1",
-      "url": "vless://389ac3be-ad36-4752-8adb-e874ffeb4c90@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#1tjuoklb"
+      "url": "vless://85d1e58d-fda1-42e9-bcae-ff1b847a4330@95.164.3.121:443?type=tcp&security=reality&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&fp=edge&sni=google.com&sid=9c&spx=%2F#7kcr1yyi"
     },
     {
       "name": "Сервер 2",
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSeTZqaUYxZTE2bmRYem5sQVZ2YnBD@178.208.78.170:23822/?outline=1"
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOM29QTW15VndhU3pZamNmUVFueGxz@178.208.78.170:23822/?outline=1"
     } 
   ],
   "update": {
