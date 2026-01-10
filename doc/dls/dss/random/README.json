@@ -10,9 +10,9 @@
     } 
   ],
   "update": {
-    "version": "1.0.4",
-    "build_number": 4,
-    "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.4/MirrorVPN-1.0.4.apk",
+    "version": "1.0.3",
+    "build_number": 3,
+    "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.4/MirrorVPN.1.0.4.apk",
     "release_notes": "Исправлены ошибки, добавлена поддержка новых протоколов",
     "required": false
   }
