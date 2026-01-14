@@ -7,7 +7,11 @@
     {
       "name": "Сервер 2",
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBc2wzYnNVWW5aeVFkemNyaUhYbjlH@178.208.78.170:23822/?outline=1"
-    }  
+    }, 
+    {
+      "name": "Глушилка 1",
+      "url": "vless://501d4611-d74d-47e3-acb8-96ff584e60a4@217.16.23.164:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oXIpgeQ6bsvsWYGh1131RENndNr26fV-NonRoUgi5hA&security=reality&sid=72df7571e3aa7adb&sni=eh.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231"
+    }
   ],
   "update": {
     "version": "1.0.4",
