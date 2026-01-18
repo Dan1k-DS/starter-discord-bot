@@ -141,14 +141,6 @@
       "url": "vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@188.72.103.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=cdntwo.dnsttlocate.ru&mode=auto&security=tls&sni=cdntwo.dnsttlocate.ru&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23714"
     },
     {
-      "name": "🇰🇿 Казахстан #1",
-      "url": "vless://e40ed20b-e22e-4c23-8b37-1f3357282ff3@151.236.93.117:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=ir-2.ozone.ru&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23670"
-    },
-    {
-      "name": "🇰🇿 Казахстан #2",
-      "url": "vless://e40ed20b-e22e-4c23-8b37-1f3357282ff3@151.236.93.235:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=ir-2.ozone.ru&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23671"
-    },
-    {
       "name": "🇵🇱 Польша #1",
       "url": "vless://689aa4af-2224-41c0-ac13-48af52676624@83.166.236.201:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23750"
     },
